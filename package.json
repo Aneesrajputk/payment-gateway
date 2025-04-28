@@ -1,0 +1,24 @@
+{
+  "name": "payment-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dom": "^0.0.3",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "razorpay": "^2.9.6",
+    "react": "^19.1.0",
+    "react-router-dom": "^7.5.2",
+    "router": "^2.2.0"
+  }
+}
